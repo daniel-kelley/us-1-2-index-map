@@ -29,7 +29,20 @@ https://spdx.org/licenses/MIT.html
 
 Generic Mapping Tools 6.x - https://docs.generic-mapping-tools.org
 
+* Names
+
+Names are extracted from
+
+http://thor-f5.er.usgs.gov/ngtoc/metadata/misc/topomaps_all.zip
+
+found via
+
+https://www.usgs.gov/faqs/where-can-i-find-indexes-usgs-topographic-maps?qt-news_science_products=0#qt-news_science_products
+
 * Files
 
 gen.sh - File generator
+
 us.xyg - Clip polygon
+
+name-250k.xyt - Quad names

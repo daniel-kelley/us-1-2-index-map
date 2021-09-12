@@ -10,7 +10,7 @@ OUTPUT := us-1-2-index-base-map.pdf
 
 all: $(OUTPUT)
 
-$(OUTPUT): gen.sh us.xyg
+$(OUTPUT): gen.sh us.xyg name-250k.xyt
 	./$< $@
 
 clean:
