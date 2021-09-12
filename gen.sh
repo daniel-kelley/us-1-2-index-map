@@ -24,4 +24,5 @@ gmt begin $name
     gmt clip us.xyg $region $proj #-W1p,blue
     gmt basemap $region $proj -Bxg2d -Byg1d
     gmt coast $area $region $proj -N1/,,.- -N2/,,.- -N3/,,.- -W
+    gmt pstext name-250k.xyt $region $proj -F'+f2p'
 gmt end # show
