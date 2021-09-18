@@ -41,8 +41,15 @@ https://www.usgs.gov/faqs/where-can-i-find-indexes-usgs-topographic-maps?qt-news
 
 * Files
 
-gen.sh - File generator
+gen.sh - 250K File generator
 
 us.xyg - Clip polygon
 
-name-250k.xyt - Quad names
+name-250k.xyt - 250K Quad names
+
+extract-name - map name extraction tool
+
+gen-125k.sh - 125K File generator
+
+name-125k.xyt - 125K Quad names
+
