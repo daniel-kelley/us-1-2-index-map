@@ -1,0 +1,971 @@
+-124.3, 41.75, Crescent City
+-124.3, 42.75, Port Orford
+-124.3, 43.25, Coos Bay
+-123.8, 41.25, Hoopa
+-123.8, 41.75, Preston Peak
+-123.8, 42.25, Kerby
+-123.8, 43.25, Sitkum
+-123.3, 40.25, Hoaglin
+-123.3, 41.75, Seiad
+-123.3, 42.25, Grants Pass
+-123.3, 42.75, Riddle
+-123.3, 43.25, Roseburg
+-123.3, 47.75, Mt Constance
+-122.8, 40.75, Weaverville
+-122.8, 41.25, Sawyers Bar
+-122.8, 41.75, Yreka
+-122.8, 42.25, Medford
+-122.8, 43.75, Lowell
+-122.8, 46.75, Chehalis
+-122.3, 37.25, Santa Cruz
+-122.3, 38.25, Napa
+-122.3, 40.75, Redding
+-122.3, 41.25, Dunsmuir
+-122.3, 41.75, Macdoel
+-122.3, 43.25, Diamond Lake
+-122.3, 43.75, Waldo Lake
+-122.3, 44.25, Mc Kenzie Bridge
+-122.3, 44.75, Mill City
+-122.3, 45.25, Estacada
+-122.3, 46.25, Mount St Helens
+-122.3, 46.75, Eatonville
+-122.3, 47.25, Tacoma
+-122.3, 47.75, Snohomish
+-122.3, 48.25, Mount Vernon
+-121.8, 39.25, Marysville
+-121.8, 39.75, Chico
+-121.8, 40.25, Mineral
+-121.8, 40.75, Burney
+-121.8, 41.25, Bartle
+-121.8, 43.25, Chemult
+-121.8, 43.75, Maiden Peak
+-121.8, 44.25, Three Sisters
+-121.8, 44.75, Mt. Jefferson
+-121.8, 45.25, Mount Hood
+-121.8, 45.75, Hood River
+-121.8, 46.25, Steamboat Mtn
+-121.8, 46.75, Mt Rainier
+-121.8, 47.25, Cedar Lake
+-121.8, 47.75, Sultan
+-121.8, 48.25, Stillaguamish
+-121.3, 38.25, Lodi
+-121.3, 38.75, Sacramento
+-121.3, 39.25, Smartsville
+-121.3, 39.75, Bidwell Bar
+-121.3, 40.75, Halls Flat
+-121.3, 43.75, Newberry Crater
+-121.3, 44.25, Bend
+-121.3, 44.75, Madras
+-121.3, 45.25, Dufur
+-121.3, 45.75, The Dalles
+-121.3, 46.25, Mount Adams
+-121.3, 46.75, Mount Aix
+-121.3, 47.25, Snoqualmie Pass
+-121.3, 47.75, Skykomish
+-121.3, 48.25, Glacier Peak
+-120.8, 34.75, Guadalupe
+-120.8, 35.25, San Luis
+-120.8, 36.25, Priest Valley
+-120.8, 36.75, Panoche
+-120.8, 38.25, Jackson
+-120.8, 38.75, Placerville
+-120.8, 39.25, Colfax
+-120.8, 39.75, Downieville
+-120.8, 46.25, White Swan
+-120.8, 46.75, Ellensburg
+-120.8, 47.25, Mount Stuart
+-120.8, 47.75, Chiwaukum
+-120.8, 48.25, Stehekin
+-120.8, 48.75, Slate Pass
+-120.3, 34.75, Lompoc
+-120.3, 35.75, Cholame
+-120.3, 36.25, Coalinga
+-120.3, 37.75, Sonora
+-120.3, 38.25, Big Trees
+-120.3, 38.75, Pyramid Peak
+-120.3, 39.25, Truckee
+-120.3, 39.75, Sierraville
+-120.3, 44.75, Mitchell
+-120.3, 45.25, Condon
+-120.3, 45.75, Arlington
+-120.3, 46.25, Zillah
+-120.3, 47.25, Colockum Pass
+-120.3, 47.75, Chelan
+-120.3, 48.25, Methow
+-119.8, 34.75, Santa Ynez
+-119.8, 35.25, McKittrick
+-119.8, 35.75, Lost Hills
+-119.8, 37.25, Mariposa
+-119.8, 37.75, Yosemite
+-119.8, 38.25, Dardanelles
+-119.8, 38.75, Markleeville
+-119.8, 39.25, Carson
+-119.8, 39.75, Reno
+-119.8, 44.25, Dayville
+-119.8, 45.75, Blalock Island
+-119.8, 46.25, Prosser
+-119.8, 48.25, Okanogan
+-119.8, 48.75, Chopaka
+-119.3, 34.75, Mt. Pinos
+-119.3, 35.25, Buena Vista Lake
+-119.3, 36.75, Dinuba
+-119.3, 37.25, Kaiser
+-119.3, 37.75, Mt. Lyell
+-119.3, 38.25, Bridgeport
+-119.3, 38.75, Wellington
+-119.3, 39.25, Wabuska
+-119.3, 39.75, Wadsworth
+-119.3, 45.75, Umatilla
+-119.3, 46.25, Pasco
+-119.3, 48.75, Osoyoos
+-118.8, 34.25, Camulos
+-118.8, 34.75, Tejon
+-118.8, 35.25, Caliente
+-118.8, 35.75, Tobias Peak
+-118.8, 36.25, Kaweah
+-118.8, 36.75, Tehipite
+-118.8, 37.25, Mt. Goddard
+-118.8, 37.75, Mt. Morrison
+-118.8, 45.75, Pendleton
+-118.8, 46.25, Wallula
+-118.8, 46.75, Connell
+-118.8, 48.75, Republic
+-118.3, 33.75, San Pedro
+-118.3, 34.75, Elizabeth Lake
+-118.3, 35.25, Mojave
+-118.3, 35.75, Kernville
+-118.3, 36.25, Olancha
+-118.3, 36.75, Mt. Whitney
+-118.3, 37.25, Bishop
+-118.3, 37.75, White Mountain
+-118.3, 44.25, Ironside Mountain
+-118.3, 44.75, Sumpter
+-118.3, 46.25, Walla Walla
+-118.3, 48.75, Marcus
+-117.8, 33.25, Capistrano
+-117.8, 33.75, Corona
+-117.8, 37.75, Silver Peak
+-117.8, 44.75, Baker City
+-117.8, 45.25, Telocaset
+-117.8, 46.25, Pomeroy
+-117.8, 48.25, Chewelah
+-117.8, 48.75, Colville
+-117.3, 33.25, San Luis Rey
+-117.3, 33.75, Elsinore
+-117.3, 34.75, Barstow
+-117.3, 37.75, Goldfield
+-117.3, 43.75, Mitchell Butte
+-117.3, 44.75, Pine
+-117.3, 46.75, Pullman
+-117.3, 47.25, Oakesdale
+-117.3, 47.75, Spokane
+-117.3, 48.25, Newport
+-117.3, 48.75, Metaline
+-116.8, 32.75, Cuyamaca
+-116.8, 33.25, Ramona
+-116.8, 33.75, San Jacinto
+-116.8, 34.25, San Gorgonio
+-116.8, 36.75, Bullfrog
+-116.8, 37.25, Tolicha Peak
+-116.8, 37.75, Cactus Range
+-116.8, 43.25, Silver City
+-116.8, 43.75, Nampa
+-116.8, 44.25, Weiser
+-116.8, 47.75, Rathdrum
+-116.8, 48.25, Sandpoint
+-116.3, 32.75, Carrizo
+-116.3, 33.25, Vallecito
+-116.3, 33.5, Indio
+-116.3, 36.75, Skull Mountain
+-116.3, 37.25, Wheelbarrow Peak
+-116.3, 37.75, Reveille Peak
+-116.3, 43.25, Bisuka
+-116.3, 43.75, Boise
+-116.3, 44.25, Squaw Creek
+-116.3, 44.75, Meadows
+-116.3, 45.25, Riggins
+-116.3, 46.25, Kamiah
+-116.3, 47.75, Cataldo
+-115.8, 32.75, El Centro
+-115.8, 36.75, Indian Spring
+-115.8, 37.25, Emigrant Valley
+-115.8, 37.75, Penoyer Valley
+-115.8, 40.25, Jiggs
+-115.8, 43.25, Mountain Home
+-115.8, 43.75, Idaho Basin
+-115.8, 44.25, Garden Valley
+-115.8, 45.75, Buffalo Hump
+-115.8, 46.25, Weippe
+-115.8, 46.75, Washington Creek
+-115.8, 47.25, Avery
+-115.8, 47.75, Trout Creek
+-115.8, 48.25, Libby
+-115.3, 32.75, Holtville
+-115.3, 36.75, Sheep Range
+-115.3, 37.25, Alamo
+-115.3, 40.75, Halleck
+-115.3, 43.25, Camas Prairie
+-115.3, 43.75, Rocky Bar
+-115.3, 44.25, Bear Valley
+-115.3, 47.25, St Regis
+-115.3, 47.75, Thompson Falls
+-115.3, 48.25, Jennings
+-114.8, 32.75, Yuma
+-114.8, 39.25, Ely
+-114.8, 43.75, Sawtooth
+-114.8, 44.25, Custer
+-114.8, 44.75, Casto
+-114.8, 48.75, Stryker
+-114.55, 34.75, Needles
+-114.3, 32.25, Tinajas Altas
+-114.3, 34.25, Parker
+-114.3, 43.75, Hailey
+-114.3, 44.25, Bayhorse
+-114.3, 46.25, Hamilton
+-114.3, 46.75, Missoula
+-114.3, 47.75, Flathead Lake
+-114.3, 48.25, Kalispell
+-114.3, 48.75, Kintla Lakes
+-113.8, 44.25, Borah Peak
+-113.8, 46.25, Sapphire
+-113.8, 46.75, Bonner
+-113.8, 47.25, Elbow Lake
+-113.8, 48.25, Nyack
+-113.8, 48.75, Chief Mountain
+-113.3, 46.25, Philipsburg
+-113.3, 46.75, Drummond
+-113.3, 47.25, Ovando
+-113.3, 47.75, Silvertip
+-113.3, 48.25, Marias Pass
+-113.3, 48.75, Browning
+-112.8, 34.25, Congress
+-112.8, 47.25, Coopers Lake
+-112.8, 47.75, Saypo
+-112.8, 48.25, Heart Butte
+-112.8, 48.75, Blackfoot
+-112.3, 34.25, Bradshaw Mountains
+-112.3, 34.75, Jerome
+-112.3, 35.25, Williams
+-112.3, 46.25, Boulder
+-112.3, 47.25, Hogan
+-112.3, 47.75, Choteau
+-112.3, 48.25, Dupuyer
+-112.3, 48.75, Cut Bank
+-111.8, 31.75, Fresnal
+-111.8, 32.25, Silver Bell
+-111.8, 33.75, Cave Creek
+-111.8, 34.25, Turret Peak
+-111.8, 34.75, Camp Verde
+-111.8, 35.25, Flagstaff
+-111.8, 40.75, Ft. Douglas
+-111.8, 41.75, Logan
+-111.8, 42.25, Preston
+-111.8, 48.25, Conrad
+-111.3, 31.25, Old Glory
+-111.3, 31.75, Arivaca
+-111.3, 32.25, Tucson Mountains
+-111.3, 32.75, Newman Peak
+-111.3, 33.25, Florence
+-111.3, 33.75, Roosevelt
+-111.3, 40.25, Strawberry Valley
+-111.3, 40.75, Coalville
+-111.3, 41.75, Randolph
+-111.3, 42.25, Montpelier
+-111.3, 43.25, Irwin
+-110.8, 31.25, Nogales
+-110.8, 31.75, Patagonia
+-110.8, 32.25, Tucson
+-110.8, 32.75, Winkelman
+-110.8, 33.75, Chrysotile
+-110.8, 40.75, Hayden Peak
+-110.8, 42.25, Cokeville
+-110.8, 42.75, Afton
+-110.8, 43.25, Jackson
+-110.8, 43.75, Grand Teton
+-110.8, 44.25, Shoshone
+-110.8, 44.75, Gallatin
+-110.8, 48.75, Alma
+-110.3, 31.25, Hereford
+-110.3, 31.75, Benson
+-110.3, 40.25, Duchesne
+-110.3, 40.75, Gilbert Peak
+-110.3, 42.75, Big Piney
+-110.3, 43.25, Gros Ventre
+-110.3, 43.75, Mt Leidy
+-110.3, 44.25, Lake
+-110.3, 44.75, Canyon
+-110.3, 48.25, Big Sandy
+-110.3, 48.75, Gildford
+-109.8, 31.25, Douglas
+-109.8, 31.75, Pearce
+-109.8, 32.25, Willcox
+-109.8, 37.75, Elk Ridge
+-109.8, 40.25, Vernal
+-109.8, 40.75, Marsh Peak
+-109.8, 43.25, Fremont Peak
+-109.8, 43.75, Younts Peak
+-109.8, 44.25, Ishawooa
+-109.8, 44.75, Crandall Creek
+-109.8, 45.25, Granite Mountain District
+-109.8, 45.75, Big Timber
+-109.8, 48.75, Thibedeau Lake
+-109.3, 31.25, Perilla
+-109.3, 31.75, Chiricahua
+-109.3, 32.25, San Simon
+-109.3, 33.25, Morenci
+-109.3, 33.75, Nutrioso
+-109.3, 40.25, Jensen
+-109.3, 43.75, Kirwin
+-109.3, 45.75, Stillwater
+-109.3, 48.75, Zurich
+-108.8, 33.25, Mogollon
+-108.8, 33.75, Reserve
+-108.8, 38.25, Paradox Valley
+-108.8, 40.25, Rangely
+-108.8, 47.75, Landusky
+-108.8, 48.75, Cherry Ridge
+-108.55, 36.5, Kirtland
+-108.3, 32.75, Silver City
+-108.3, 33.25, Alum Mountain
+-108.3, 33.75, Pelona
+-108.3, 40.25, White River
+-108.3, 45.75, Huntley
+-108.3, 48.75, Avery
+-107.8, 32.25, Deming
+-107.8, 34.75, Broom Mountain
+-107.8, 37.25, Ignacio
+-107.8, 38.25, Montrose
+-107.8, 39.75, Grand Hogback
+-107.8, 40.25, Danforth Hills
+-107.8, 40.75, Craig
+-107.8, 44.75, Bald Mountain
+-107.8, 45.25, St. Xavier
+-107.8, 45.75, Fort Custer
+-107.8, 48.75, Cowan
+-107.3, 34.75, Cerro Verde
+-107.3, 37.25, Pagosa Springs
+-107.3, 37.75, San Cristobal
+-107.3, 38.25, Uncompahgre
+-107.3, 39.75, Glenwood Springs
+-107.3, 41.25, Savery
+-107.3, 44.25, Cloud peak
+-107.3, 44.75, Dayton
+-107.3, 45.25, Rosebud
+-106.8, 32.25, Las Cruces
+-106.8, 32.75, Tonuco
+-106.8, 33.25, Salinas Peak
+-106.8, 34.25, La Joya
+-106.8, 35.25, Bernalillo
+-106.8, 35.75, Jemes
+-106.8, 36.25, Gallina
+-106.8, 37.25, Summitville
+-106.8, 37.75, Creede
+-106.8, 39.25, Mount Jackson
+-106.8, 40.75, Hahns Peak
+-106.8, 41.25, Saratoga
+-106.8, 41.75, Fort Steele
+-106.8, 44.25, Fort McKinney
+-106.8, 44.75, Sheridan
+-106.8, 48.25, Glasgow
+-106.8, 48.75, Boundary
+-106.3, 31.25, Rio Grande
+-106.3, 31.75, El Paso
+-106.3, 32.75, Point Of Sands
+-106.3, 33.25, Tularosa
+-106.3, 33.75, Oscura Peak
+-106.3, 34.75, Estancia
+-106.3, 35.25, San Pedro
+-106.3, 35.75, Santa Clara
+-106.3, 36.25, Abiquiu
+-106.3, 36.75, Tusas
+-106.3, 37.25, Conejos
+-106.3, 37.75, Del Norte
+-106.3, 39.25, Leadville
+-106.3, 41.25, Medicine Bow
+-105.8, 31.25, Fort Hancock
+-105.8, 31.75, Cerro Alto
+-105.8, 35.25, Lamy
+-105.8, 35.75, Santa Fe
+-105.8, 40.25, Longs Peak
+-105.8, 40.75, Home
+-105.8, 41.25, Laramie
+-105.3, 30.75, Eagle Mountain
+-105.3, 31.25, Sierra Blanca
+-105.3, 35.25, Bernal
+-105.3, 35.75, Las Vegas
+-105.3, 37.75, Huerfano Park
+-105.3, 38.25, Canon City
+-105.3, 38.75, Pikes Peak
+-105.3, 39.25, Platte Canyon
+-105.3, 39.75, West Denver
+-105.3, 40.75, Livermore
+-105.3, 41.25, Sherman
+-104.8, 29.75, Ruidosa
+-104.8, 30.25, San Carlos
+-104.8, 30.75, Chispa
+-104.8, 31.25, Van Horn
+-104.8, 35.25, Corazon
+-104.8, 35.75, Watrous
+-104.8, 37.25, Spanish Peaks
+-104.8, 37.75, Walsenburg
+-104.8, 38.25, Pueblo
+-104.8, 38.75, Colorado Springs
+-104.8, 39.25, Castle Rock
+-104.8, 39.75, East Denver
+-104.8, 40.25, Greeley
+-104.8, 40.75, Eaton
+-104.8, 41.25, Cheyenne
+-104.8, 42.25, Hartville
+-104.8, 44.25, Moorcroft
+-104.8, 44.75, Devils Tower
+-104.3, 29.25, Polvo
+-104.3, 29.75, Shafter
+-104.3, 30.25, Marfa
+-104.3, 30.75, Valentine
+-104.3, 31.25, Kent
+-104.3, 37.25, Elmoro
+-104.3, 37.75, Apishapa
+-104.3, 38.25, Nepesta
+-104.3, 38.75, Big Springs
+-104.3, 41.75, Goshen Hole
+-104.3, 42.25, Patrick
+-104.3, 43.75, Newcastle
+-104.3, 44.25, Sundance
+-104.3, 44.75, Aladdin
+-103.8, 29.25, Terlingua
+-103.8, 30.25, Alpine
+-103.8, 30.75, Fort Davis
+-103.8, 31.25, Toyah
+-103.8, 35.25, Tucumcari
+-103.8, 37.25, Mesa De Maya
+-103.8, 37.75, Timpas
+-103.8, 38.25, Catlin
+-103.8, 38.75, Sanborn
+-103.8, 39.25, Limon
+-103.8, 41.75, Scotts Bluff
+-103.8, 42.25, Whistle Creek
+-103.8, 43.25, Edgemont
+-103.8, 43.75, Harney Peak
+-103.8, 44.25, Deadwood
+-103.8, 44.75, Belle Fourche
+-103.8, 45.25, Harding
+-103.8, 45.75, Buffalo
+-103.3, 29.25, Chisos Mountains
+-103.3, 29.75, Bone Spring
+-103.3, 30.75, Hovey
+-103.3, 31.25, Barstow
+-103.3, 37.25, Mt Carrizo
+-103.3, 37.75, Higbee
+-103.3, 38.25, Las Animas
+-103.3, 38.75, Arroyo
+-103.3, 41.75, Camp Clarke
+-103.3, 43.25, Oelrichs
+-103.3, 43.75, Hermosa
+-103.3, 44.25, Rapid
+-103.3, 44.75, Newell
+-103.3, 45.25, Hoover
+-103.3, 45.75, Reva
+-103.3, 48.25, Ray
+-102.8, 30.25, Longfellow
+-102.8, 30.75, Comanche Spring
+-102.8, 37.25, Springfield
+-102.8, 37.75, Two Butte
+-102.8, 38.25, Lamar
+-102.8, 38.75, Kit Carson
+-102.8, 41.25, Sidney
+-102.8, 41.75, Browns Creek
+-102.3, 30.25, Sanderson
+-102.3, 30.75, Independence Draw Quadrangle
+-102.3, 31.25, Crane
+-102.3, 37.25, Vilas
+-102.3, 37.75, Albany
+-102.3, 38.25, Granada
+-102.3, 38.75, Cheyenne Wells
+-102.3, 41.25, Chappell
+-101.8, 30.75, Sheffield
+-101.8, 31.25, Rankin
+-101.8, 37.75, Syracuse
+-101.8, 41.25, Ogallala
+-101.3, 37.75, Larned
+-101.3, 41.25, Paxton
+-100.8, 31.25, Sherwood
+-100.8, 37.75, Garden
+-100.8, 41.25, North Platte
+-100.8, 46.75, Bismarck
+-100.3, 29.25, Brackett
+-100.3, 29.75, Nueces
+-100.3, 30.25, Rock Springs
+-100.3, 30.75, Fort McKavett
+-100.3, 31.25, San Angelo
+-100.3, 31.75, Hayrick
+-100.3, 32.25, Sweetwater
+-100.3, 32.75, Roby
+-100.3, 37.25, Meade
+-100.3, 37.75, Dodge
+-100.3, 40.75, Gothenburg
+-99.8, 28.25, Cotulla
+-99.8, 29.25, Uvalde
+-99.8, 31.25, Eden
+-99.8, 31.75, Ballinger
+-99.8, 32.25, Abilene
+-99.8, 32.75, Anson
+-99.8, 37.25, Ashland
+-99.8, 37.75, Spearville
+-99.8, 38.25, Ness
+-99.8, 38.75, Ellis
+-99.8, 39.25, Hill
+-99.8, 39.75, Norton
+-99.8, 40.25, Arapahoe
+-99.8, 40.75, Lexington
+-99.3, 30.25, Kerrville
+-99.3, 30.75, Mason
+-99.3, 31.25, Brady
+-99.3, 31.75, Coleman
+-99.3, 32.25, Baird
+-99.3, 32.75, Albany
+-99.3, 37.25, Coldwater
+-99.3, 37.75, Kinsley
+-99.3, 38.25, Larned
+-99.3, 38.75, Hays
+-99.3, 39.25, Plainville
+-99.3, 39.75, Phillipsburg
+-99.3, 40.25, Holdrege
+-99.3, 40.75, Kearney
+-98.8, 30.25, Fredericksburg
+-98.8, 30.75, Llano
+-98.8, 31.25, San Saba
+-98.8, 31.75, Brownwood
+-98.8, 32.25, Eastland
+-98.8, 32.75, Breckenridge
+-98.8, 37.25, Medicine Lodge
+-98.8, 37.75, Pratt
+-98.8, 38.25, Great Bend
+-98.8, 38.75, Russell
+-98.8, 39.25, Osborne
+-98.8, 39.75, Smith Center
+-98.8, 40.25, Red Cloud
+-98.8, 40.75, Wood River
+-98.8, 41.25, Loup
+-98.8, 44.75, Redfield
+-98.8, 45.25, Northville
+-98.8, 45.75, Ellendale
+-98.8, 46.25, Edgeley
+-98.8, 46.75, Jamestown
+-98.8, 47.25, Pingree
+-98.3, 27.25, Falfurrias
+-98.3, 28.25, Mikeska
+-98.3, 30.25, Blanco
+-98.3, 30.75, Burnet
+-98.3, 31.25, Lampasas
+-98.3, 31.75, Hamilton
+-98.3, 32.25, Stephenville
+-98.3, 32.75, Palo Pinto
+-98.3, 37.25, Anthony
+-98.3, 37.75, Kingman
+-98.3, 38.25, Lyons
+-98.3, 38.75, Ellsworth
+-98.3, 39.25, Beloit
+-98.3, 39.75, Mankato
+-98.3, 40.25, Superior
+-98.3, 40.75, Grand Island
+-98.3, 41.25, St. Paul
+-98.3, 43.75, Mitchell
+-98.3, 44.25, Huron
+-98.3, 44.75, Byron
+-98.3, 45.25, Aberdeen
+-98.3, 45.75, Columbia
+-98.3, 46.25, Lamoure
+-98.3, 46.75, Eckelson
+-97.8, 27.25, Sarita
+-97.8, 29.25, Smiley
+-97.8, 29.75, San Marcos
+-97.8, 30.25, Austin
+-97.8, 30.75, Georgetown
+-97.8, 31.25, Gatesville
+-97.8, 31.75, Meridian
+-97.8, 32.25, Granbury
+-97.8, 32.75, Weatherford
+-97.8, 33.75, Montague
+-97.8, 34.25, Addington
+-97.8, 34.75, Rush Springs
+-97.8, 35.25, Chickasha
+-97.8, 35.75, Kingfisher
+-97.8, 37.25, Caldwell
+-97.8, 37.75, Cheney
+-97.8, 38.25, Hutchinson
+-97.8, 38.75, Salina
+-97.8, 39.25, Minneapolis
+-97.8, 39.75, Concordia
+-97.8, 40.25, Hebron
+-97.8, 40.75, York
+-97.8, 41.25, Stromsburg
+-97.8, 43.25, Olivet
+-97.8, 43.75, Alexandria
+-97.8, 44.25, De Smet
+-97.8, 46.75, Tower
+-97.3, 29.75, Flatonia
+-97.3, 30.25, Bastrop
+-97.3, 30.75, Taylor
+-97.3, 31.25, Temple
+-97.3, 31.75, Waco
+-97.3, 32.25, Cleburne
+-97.3, 32.75, Fort Worth
+-97.3, 33.75, Gainesville
+-97.3, 34.25, Ardmore
+-97.3, 34.75, Pauls Valley
+-97.3, 35.25, Purcell
+-97.3, 37.25, Wellington
+-97.3, 37.75, Wichita
+-97.3, 38.25, Newton
+-97.3, 38.75, Abilene
+-97.3, 39.25, Clay Center
+-97.3, 39.75, Washington
+-97.3, 41.25, David City
+-97.3, 43.25, Parker
+-97.3, 46.25, Wyndmere
+-97.3, 46.75, Casselton
+-96.8, 32.75, Dallas
+-96.8, 33.75, Denison
+-96.8, 34.25, Tishomingo
+-96.8, 34.75, Stonewall
+-96.8, 35.25, Seminole and Prague
+-96.8, 37.25, Burden
+-96.8, 37.75, Eldorado
+-96.8, 38.25, Cottonwood Falls
+-96.8, 38.75, Parkerville
+-96.8, 39.25, Junction City
+-96.8, 39.75, Marysville
+-96.8, 40.75, Lincoln
+-96.8, 41.25, Wahoo
+-96.8, 42.75, Elk Point
+-96.8, 43.25, Canton
+-96.8, 46.25, Wahpeton
+-96.8, 46.75, Fargo
+-96.3, 34.25, Atoka
+-96.3, 34.75, Coalgate
+-96.3, 35.25, Wewoka
+-96.3, 35.75, Nuyaka
+-96.3, 36.25, Hominy
+-96.3, 36.75, Pawhuska
+-96.3, 37.25, Sedan
+-96.3, 37.75, Eureka
+-96.3, 38.25, Emporia
+-96.3, 38.75, Eskridge
+-96.3, 39.25, Wamego
+-96.3, 39.75, Seneca
+-96.3, 40.75, Weeping Water
+-96.3, 41.25, Fremont
+-95.8, 33.75, Paris
+-95.8, 34.25, Antlers
+-95.8, 34.75, McAlester
+-95.8, 35.25, Canadian
+-95.8, 36.25, Claremore
+-95.8, 36.75, Nowata
+-95.8, 37.25, Independence
+-95.8, 37.75, Fredonia
+-95.8, 38.25, Burlington
+-95.8, 38.75, Burlingame
+-95.8, 39.25, Topeka
+-95.8, 39.75, Hiawatha
+-95.3, 34.25, Alikchi
+-95.3, 34.75, Tuskahoma
+-95.3, 35.25, Sansbois
+-95.3, 35.75, Okmulgee
+-95.3, 36.25, Pryor
+-95.3, 36.75, Vinita
+-95.3, 37.25, Parsons
+-95.3, 37.75, Iola
+-95.3, 38.25, Garnett
+-95.3, 38.75, Lawrence
+-95.3, 39.25, Oskaloosa
+-95.3, 39.75, Atchison
+-94.8, 30.25, Liberty
+-94.8, 34.25, Lukfata
+-94.8, 34.75, Winding Stair
+-94.8, 35.25, Sallisaw
+-94.8, 35.75, Tahlequah
+-94.8, 36.25, Siloam Springs
+-94.8, 36.75, Wyandotte
+-94.8, 37.25, Joplin
+-94.8, 37.75, Fort Scott
+-94.8, 38.25, Mound City
+-94.8, 38.75, Olathe
+-94.8, 39.25, Kansas City
+-94.3, 34.25, De Queen
+-94.3, 34.75, Poteau Mountain
+-94.3, 35.25, Fort Smith
+-94.3, 35.75, Winslow
+-94.3, 36.25, Fayetteville
+-94.3, 37.25, Carthage
+-94.3, 37.75, Nevada
+-94.3, 38.25, Butler
+-94.3, 38.75, Harrisonville
+-94.3, 39.25, Independence
+-93.8, 34.25, Caddo Gap
+-93.8, 34.75, Mount Ida
+-93.8, 35.25, Magazine Mountain
+-93.8, 36.25, Eureka Springs
+-93.8, 37.25, Greenfield
+-93.8, 37.75, Stockton
+-93.8, 38.25, Clinton
+-93.8, 38.75, Warrensburg
+-93.8, 39.25, Lexington
+-93.3, 33.75, Gurdon
+-93.3, 34.75, Hot Springs
+-93.3, 35.25, Dardanelle
+-93.3, 36.25, Harrison
+-93.3, 36.75, Forsyth
+-93.3, 37.25, Springfield
+-93.3, 37.75, Bolivar
+-93.3, 38.25, Warsaw
+-93.3, 38.75, Sedalia
+-93.3, 39.25, Marshall
+-92.8, 33.75, Camden
+-92.8, 34.75, Benton
+-92.8, 35.25, Morrillton
+-92.8, 35.75, Marshall
+-92.8, 36.25, Yellville
+-92.8, 38.25, Versailles
+-92.8, 38.75, Boonville
+-92.8, 39.25, Glasgow
+-92.3, 34.75, Little Rock
+-92.3, 35.75, Mountain View
+-92.3, 36.25, Mountain Home
+-92.3, 38.25, Tuscumbia
+-92.3, 38.75, Jefferson City
+-92.3, 39.25, Moberly
+-92.3, 40.25, Edina
+-91.8, 35.75, Batesville
+-91.8, 38.75, Fulton
+-91.8, 39.25, Mexico
+-91.8, 39.75, Palmyra
+-91.8, 40.25, Kahoka
+-91.8, 41.75, Fairfax
+-91.8, 42.25, Winthrop
+-91.8, 42.75, Oelwein
+-91.8, 43.25, Decorah
+-91.3, 30.75, Bayou Sara
+-91.3, 38.25, Sullivan
+-91.3, 38.75, Hermann
+-91.3, 39.25, Louisiana
+-91.3, 41.75, Stanwood
+-91.3, 42.25, Anamosa
+-91.3, 42.75, Elkader
+-91.3, 43.25, Waukon
+-90.8, 38.25, De Soto
+-90.8, 38.75, O'Fallon
+-90.8, 41.75, Rock Island
+-90.8, 42.25, Peosta
+-90.8, 42.75, Lancaster
+-90.3, 32.25, Jackson
+-90.3, 41.75, Clinton
+-90.3, 42.75, Mineral Point
+-90.3, 43.25, Richland Center
+-90.05, 45.0, Marathon
+-89.55, 45.0, Wausau
+-87.8, 35.25, Waynesboro
+-87.8, 38.25, Patoka
+-87.3, 33.25, Brookwood
+-87.3, 33.75, Jasper
+-87.3, 35.75, Colombia
+-87.3, 38.25, Ditney
+-86.8, 32.75, Clanton
+-86.8, 33.25, Bessemer
+-86.8, 33.75, Birmingham
+-86.8, 34.25, Cullman
+-86.8, 34.75, Huntsville
+-86.8, 36.25, Nashville
+-86.3, 32.75, Wetumpka
+-86.3, 33.25, Talladega
+-86.3, 33.75, Springville
+-86.3, 34.25, Gadsden
+-86.3, 34.75, Scottsboro
+-86.3, 39.25, Franklin
+-85.8, 31.25, Enterprise
+-85.8, 32.75, Dadeville
+-85.8, 33.25, Ashland
+-85.8, 33.75, Anniston
+-85.8, 34.25, Fort Payne
+-85.8, 34.75, Stevenson
+-85.8, 35.25, Sewanee
+-85.8, 35.75, Mc Minnville
+-85.8, 39.25, Columbus
+-85.3, 32.75, Opelika
+-85.3, 33.25, Wedowee
+-85.3, 33.75, Tallapoosa
+-85.3, 34.25, Rome
+-85.3, 34.75, Ringgold
+-85.3, 35.25, Chattanooga
+-85.3, 35.75, Pikeville
+-85.3, 36.25, Standingstone
+-84.8, 32.75, Talbotton
+-84.8, 33.75, Marietta
+-84.8, 34.25, Cartersville
+-84.8, 34.75, Dalton
+-84.8, 35.25, Cleveland
+-84.8, 35.75, Kingston
+-84.8, 36.25, Wartburg
+-84.8, 37.75, Harrodsburg
+-84.3, 33.75, Atlanta
+-84.3, 34.25, Suwanee
+-84.3, 34.75, Ellijay
+-84.3, 35.25, Murphy
+-84.3, 35.75, Loudon
+-84.3, 36.25, Briceville
+-84.3, 36.75, Williamsburg
+-84.3, 37.25, London
+-84.3, 37.75, Richmond
+-83.8, 33.75, Monroe
+-83.8, 34.25, Gainesville
+-83.8, 34.75, Dahlonega
+-83.8, 35.75, Knoxville
+-83.8, 36.25, Maynardville
+-83.8, 36.75, Cumberland Gap
+-83.8, 37.25, Manchester
+-83.8, 37.75, Beattyville
+-83.8, 42.25, Ann Arbor
+-83.3, 34.25, Carnesville
+-83.3, 34.75, Walhalla
+-83.3, 35.25, Cowee
+-83.3, 35.75, Mt Guyot
+-83.3, 36.25, Morristown
+-83.3, 36.75, Jonesville
+-83.3, 37.25, Hazard
+-83.3, 37.75, Salyersville
+-82.8, 33.75, Crawfordville
+-82.8, 34.25, Elberton
+-82.8, 34.75, Pickens
+-82.8, 35.25, Pisgah
+-82.8, 35.75, Asheville
+-82.8, 36.25, Greeneville
+-82.8, 36.75, Estillville
+-82.8, 37.25, Whitesburg
+-82.8, 37.75, Prestonsburg
+-82.8, 38.25, Kenova
+-82.3, 33.25, Augusta West
+-82.3, 33.75, Mc Cormick
+-82.3, 34.25, Abbeville
+-82.3, 35.25, Saluda
+-82.3, 35.75, Mount Mitchell
+-82.3, 36.25, Roan Mountain
+-82.3, 36.75, Bristol
+-82.3, 37.25, Grundy
+-82.3, 37.75, Warfield
+-82.3, 38.25, Huntington
+-81.8, 32.75, Millen
+-81.8, 33.25, Augusta East
+-81.8, 35.75, Morganton
+-81.8, 36.25, Cranberry
+-81.8, 36.75, Abingdon
+-81.8, 37.25, Tazewell
+-81.8, 37.75, Oceana
+-81.8, 38.25, Charleston
+-81.3, 34.25, Columbia
+-81.3, 35.75, Hickory
+-81.3, 36.25, Wilkesboro
+-81.3, 36.75, Wytheville
+-81.3, 37.25, Pocahontas
+-81.3, 37.75, Raleigh
+-81.3, 38.25, Kanawha Falls
+-80.8, 34.25, Camden
+-80.8, 35.25, Charlotte
+-80.8, 35.75, Statesville
+-80.8, 36.25, Yadkinville
+-80.8, 36.75, Hillsville
+-80.8, 37.25, Dublin
+-80.8, 37.75, Hinton
+-80.8, 38.25, Nicholas
+-80.8, 38.75, Sutton
+-80.3, 37.25, Christiansburg
+-80.3, 37.75, Lewisburg
+-80.3, 38.25, Huntersville
+-80.3, 38.75, Buckhannon
+-79.8, 34.75, Rockingham
+-79.8, 35.25, Troy
+-79.8, 37.25, Roanoke
+-79.8, 37.75, Natural Bridge
+-79.8, 38.25, Monterey
+-79.8, 38.75, Beverly
+-79.8, 39.25, St. George
+-79.3, 37.25, Lynchburg
+-79.3, 37.75, Lexington
+-79.3, 38.25, Staunton
+-79.3, 38.75, Franklin
+-79.3, 39.25, Piedmont
+-78.8, 37.25, Appomattox
+-78.8, 37.75, Buckingham
+-78.8, 38.25, Harrisonburg
+-78.8, 38.75, Woodstock
+-78.8, 39.25, Romney
+-78.8, 40.75, Punxsutawney
+-78.8, 43.25, Niagara
+-78.3, 37.25, Farmville
+-78.3, 37.75, Palmyra
+-78.3, 38.25, Gordonsville
+-78.3, 38.75, Luray
+-78.3, 39.25, Winchester
+-77.8, 37.25, Amelia
+-77.8, 37.75, Goochland
+-77.8, 38.25, Spottsylvania
+-77.8, 38.75, Warrenton
+-77.8, 39.25, Harpers Ferry
+-77.8, 39.75, Hagerstown
+-77.8, 40.75, Lewistown
+-77.3, 38.25, Fredericksburg
+-77.3, 38.75, Mt. Vernon
+-77.3, 39.25, Frederick
+-77.3, 39.75, Gettysburg
+-76.8, 35.75, Plymouth
+-76.8, 38.25, Nomini
+-76.8, 38.75, Patuxent
+-76.8, 39.25, Patapsco
+-76.8, 42.25, Watkins Glen
+-76.3, 35.75, Columbia
+-76.3, 36.75, Norfolk
+-76.3, 36.9166667, Norfolk
+-76.3, 38.25, St. Marys
+-76.3, 38.75, Choptank
+-76.3, 39.25, Tolchester
+-76.3, 42.25, Catatonk
+-75.8, 35.75, Roanoke Island
+-75.8, 36.75, Virginia Beach
+-75.8, 39.25, Dover
+-75.8, 41.25, Scranton
+-75.3, 39.25, Vineland
+-75.3, 39.75, Camden
+-75.3, 40.25, Norristown
+-75.3, 40.75, Bethlehem
+-75.3, 41.25, Pocono
+-75.3, 41.75, Honesdale
+-74.8, 39.75, Rancocas
+-74.8, 40.25, Trenton
+-74.8, 40.75, Raritan
+-74.8, 41.75, Monticello
+-74.3, 40.25, Navesink
+-74.3, 40.75, Passaic
+-73.3, 40.75, Islip
+-73.3, 41.75, Litchfield
+-73.3, 42.25, Housatonic
+-73.3, 42.75, Taconic
+-73.3, 43.25, Mettawee
+-72.8, 41.75, Farmington
+-72.8, 42.25, Holyoke
+-72.8, 42.75, Brattleboro
+-72.3, 42.25, Ware
+-72.3, 42.75, Keene
+-71.8, 41.25, Block Island
+-71.8, 41.75, Putnam
+-71.8, 42.25, Quinsigamond
+-71.8, 42.75, Fitchburg
+-71.3, 41.25, Newport
+-71.3, 41.75, Providence
+-71.3, 42.25, Boston
+-71.3, 42.75, Lowell
+-70.8, 41.25, Marthas Vineyard
+-70.8, 41.75, New Bedford
+-70.8, 42.75, Cape Ann
+-70.3, 41.25, Nantucket
+-70.3, 41.75, Cape Cod Bay
+-70.3, 42.25, Provincetown
+-69.8, 41.75, Nauset
+-68.8, 44.25, Penobscot Bay
